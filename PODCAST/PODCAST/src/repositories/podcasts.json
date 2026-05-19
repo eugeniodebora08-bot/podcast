@@ -1,0 +1,74 @@
+[
+  {
+    "podcastName": "flow",
+    "episode": "CBUM - Flow #319",
+    "videoId": "pQSuQmUfS30",
+    "categories": ["saúde", "esporte", "bodybuilder"]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "RUBENS BARRICHELLO - Flow #339",
+    "videoId": "4KDGTdiOV4I",
+    "categories": ["esporte", "corrida"]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Felipão - Flow #339",
+    "videoId": "00000",
+    "categories": ["esporte", "futebol"]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Xuxa",
+    "videoId": "00000",
+    "categories": ["humor", "entretenimento"]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "NEYMAR JR - Flow Podcast",
+    "videoId": "dQw4w9WgXcQ",
+    "categories": ["esporte", "futebol", "celebridades"]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "LUVA DE PEDREIRO - Flow Podcast",
+    "videoId": "7K6lzyxb140",
+    "categories": ["futebol", "internet", "humor"]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "SERGIO SACANI - Flow Podcast",
+    "videoId": "1ZytW4cQ4q8",
+    "categories": ["ciência", "espaço", "tecnologia"]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Bianca Andrade",
+    "videoId": "aBcDeFg123",
+    "categories": ["empreendedorismo", "beleza", "internet"]
+  },
+  {
+    "podcastName": "inteligencia ltda",
+    "episode": "MANUAL DO MUNDO",
+    "videoId": "mMd9xkP7n4A",
+    "categories": ["ciência", "educação", "tecnologia"]
+  },
+  {
+    "podcastName": "podpah",
+    "episode": "RONALDINHO GAÚCHO",
+    "videoId": "r0n4ld1nh0",
+    "categories": ["futebol", "esporte", "entretenimento"]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "PRIMO RICO - Flow Podcast",
+    "videoId": "f1n4nc45",
+    "categories": ["finanças", "empreendedorismo", "negócios"]
+  },
+  {
+    "podcastName": "poddelas",
+    "episode": "Viih Tube",
+    "videoId": "v11htube01",
+    "categories": ["internet", "entretenimento", "humor"]
+  }
+]
